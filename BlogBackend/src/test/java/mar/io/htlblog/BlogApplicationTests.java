@@ -1,13 +1,13 @@
-package at.biglmatthias.WeLift;
+package mar.io.htlblog;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class WeLiftApplicationTests {
+class BlogApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+    @Test
+    void contextLoads() {
+    }
 
 }
